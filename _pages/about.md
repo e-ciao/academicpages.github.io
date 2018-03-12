@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<<<<<<< HEAD
-Welcome to my website. This page is still under construction. More information will be added soon. Thank you for visiting this page.
-=======
 Welcome to my website. This page is still under construction. More information will be added soon. Thank you for your visit.
->>>>>>> cd799a8a2b506071d2e7224531feda7f98342c55
 
 I am currently a fourth-year doctoral student at the Department of Sociology in the University of Arizona. From the perspectives of organization theory and social networks, I study how community contexts influence organizational behaviors and outcomes and how organizations contribute to the innovative solutions for pressiong social problems.
 
